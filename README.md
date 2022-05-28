@@ -59,7 +59,7 @@ python3 portScanner.py -s <domain> -p <start-port> <end-port>
 
 If you like the project, please give a star ⭐️ and don't forget to buy me a coffee ☕️ 
 
-<p align="left"><a href="https://www.buymeacoffee.com/emr4h"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="emr4h" /></a></p><br>
+<p align="left"><a href="https://www.buymeacoffee.com/emr4h"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="emr4h" /></a></p>
 
 
 <h3 align="left">Follow me:</h3>
